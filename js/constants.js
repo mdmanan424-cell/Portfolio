@@ -3,7 +3,7 @@ const APP_DATA = {
     name: "Bharath D",
     role: "Full Stack Developer",
     introduction: "I’m a Full Stack Java Developer with a strong foundation in building scalable and user-centric web applications using Spring Boot, REST APIs, and modern frontend technologies. I recently graduated in Computer Science (VTU, 2025) and gained hands-on industry experience during my internship at Eunoia Labs, where I worked on real-world full stack workflows.",
-    resumeLink: "Bharath_Resume (1).pdf",
+    resumeLink: "Bharath_D_Resume_3.pdf",
     socialLinks: {
         email: "bharathdhananjaya155@gmail.com",
         linkedin: "https://linkedin.com/in/bharath-d-7a196a353",
