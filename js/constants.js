@@ -2,7 +2,7 @@
 const APP_DATA = {
     name: "Mohammed Mannan",
     role: "Full Stack Developer",
-    introduction: "I’m a Full Stack Java Developer with a strong foundation in building scalable and user-centric web applications using Spring Boot, REST APIs, and modern frontend technologies. I recently graduated in Computer Science (VTU, 2025) and gained hands-on industry experience during my internship at Eunoia Labs, where I worked on real-world full stack workflows.",
+    introduction: "I’m a Full Stack Java Developer with a strong foundation in building scalable and user-centric web applications using Spring Boot, REST APIs, and modern frontend technologies. I recently graduated in Electronics & Communication (VTU, 2025) and gained hands-on industry experience during my internship at Eunoia Labs, where I worked on real-world full stack workflows.",
     resumeLink: "Md_Resume.pdf",
     socialLinks: {
         email: "mdmanan424@gmail.com",
@@ -34,15 +34,9 @@ const APP_DATA = {
     ],
     experience: [
         {
-            role: "Web Developer Intern",
-            company: "Eunoia Labs",
-            date: "September 2024 - December 2024",
-            certificateLink: "https://drive.google.com/file/d/1Vn4giGRRUdVC7ulK5N7x-YL6SW_rpxai/view?usp=drive_link"
-        },
-        {
             role: "Java Full Stack Developer Intern",
             company: "Tap Academy",
-            date: "July 2025 - January 2026",
+            date: "July 2025 - December 2026",
             certificateLink: "https://drive.google.com/file/d/1_fHagYUKOCnnOz6oY4KTTpd7-rvws1hV/view?usp=drivesdk"
         }
     ],
