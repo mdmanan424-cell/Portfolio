@@ -3,7 +3,7 @@ const APP_DATA = {
     name: "Mohammed Mannan",
     role: "Full Stack Developer",
     introduction: "I’m a Full Stack Java Developer with a strong foundation in building scalable and user-centric web applications using Spring Boot, REST APIs, and modern frontend technologies. I recently graduated in Computer Science (VTU, 2025) and gained hands-on industry experience during my internship at Eunoia Labs, where I worked on real-world full stack workflows.",
-    resumeLink: "Mannan_Resume.pdf",
+    resumeLink: "Md_Resume.pdf",
     socialLinks: {
         email: "mdmanan424@gmail.com",
         linkedin: "http://linkedin.com/in/md-manan-j053",
